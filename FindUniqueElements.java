@@ -1,6 +1,6 @@
 package com.parth.ArrayExcerises;
 
-public class FindUniqueElemnts {
+public class FindUniqueElements {
 	
 	public static void main(String[] args) {
 		int[] array = { 7,3,2,55,60,90 };

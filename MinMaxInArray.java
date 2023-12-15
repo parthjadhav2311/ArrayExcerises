@@ -5,10 +5,10 @@ public class MinMaxInArray {
 		 
 		int[] nums = {2,7,9,4,10,15};
 		 
-		minAndMax(nums); 
+		MinAndMax(nums); 
 	}
 
-	public static void minAndMax(int[] nums) {
+	public static void MinAndMax(int[] nums) {
 		int temp = 0, i;
 		
 		for(i = 0; i<nums.length; i++)
